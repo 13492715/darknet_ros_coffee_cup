@@ -1,0 +1,6 @@
+classes= 1
+train  = ass4/data_set/train.txt
+valid  = ass4/data_set/valid.txt
+names = data/duckiebot.names
+backup = duckie_backup
+
